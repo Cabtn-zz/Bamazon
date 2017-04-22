@@ -12,7 +12,6 @@ var connection = mysql.createConnection({
 });
 //Upon connecting to our server we fetch the products
 connection.connect(function(err,res){
-    console.log("connected");
     fetchProducts();
 });
 //Selects all of the products from the table and loops through them displaying a table

@@ -21,5 +21,3 @@ var quantityPrompt = {
 
 exports.itemPrompt = itemPrompt;
 exports.quantityPrompt = quantityPrompt;
-
-console.log("i'm in here")
