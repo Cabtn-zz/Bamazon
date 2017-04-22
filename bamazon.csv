@@ -1,0 +1,9 @@
+item_id,product_name,department_name,stock_quantity,price
+1,"Nintendo Switch",Electronics,10,299.99
+2,"Adidas Ultra Boost",Footwear,1,129.99
+3,"Way of Kings",Books,100,19.99
+4,"Pantagonia Jacket","Outdoor Clothing",26,199.99
+5,"Surface Pro 5",Electronics,NULL,999.99
+6,"Thor's Hammer",Self-Defense,1,12.99
+7,Batmobile,Automotive,1,20000
+8,"Blue Lightsaber",Self-Defense,2,19.99
